@@ -1,5 +1,5 @@
-﻿using VanessaTorresPeople.Models;
-using SQLite;
+﻿using SQLite;
+using VanessaTorresPeople.Models;
 namespace VanessaTorresPeople;
 
 public class PersonRepository
